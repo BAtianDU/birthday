@@ -14,7 +14,7 @@ var config = {
         "猪猪一定都在你的身边哟",
         "一起去吃~ 一起去玩~ ",
         "一起见我们的未来哟",
-        "mua~~",
+        "mua~~":"./imgs/tou.jpg",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -33,11 +33,11 @@ var config = {
     desc: {
         turn_on: "点我哟！！！",
         play: "music~",
-        bannar_coming: "颜色",
+        bannar_coming: "挂个横幅！",
         balloons_flying: "好像少点东西",
         cake_fadein: "老板！给BB来个大蛋糕！",
-        light_candle: "插蜡烛啦~",
-        wish_message: "生日快乐",
+        light_candle: "点蜡烛啦~",
+        wish_message: "生日快乐哟BB！",
         story: "A MESSAGE FOR YOU",
     }
 };
